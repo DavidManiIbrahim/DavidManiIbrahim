@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm David Mani Ibrahim</h1>
-<h3 align="center">A Frontend Developer | Passionate about building clean, responsive, and user-friendly web apps</h3>
+
+
+<h1 align="center">Hi I'm David Mani Ibrahim</h1>
+<h3 align="center">A Frontend Engineer| Passionate about building clean, responsive, and user-friendly web and mobile applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davidmaniibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="davidmaniibrahim" />
@@ -11,7 +13,7 @@
 - 🌱 I’m currently learning **Full Stack Development (React, Next.js, Firebase, Supabase)**
 - 👨‍💻 All of my projects are available on [my GitHub](https://github.com/DavidManiIbrahim?tab=repositories)  
 - 💬 Ask me about **React, HTML, CSS, JavaScript (ES6+), Git, Tailwind, Bootstrap**
-- 🎯 2025 Goal: **Hit 1k GitHub contributions & become a Full-Stack JavaScript Developer**
+- 🎯 2025 Goal: **Hit 2k GitHub contributions & become a Full-Stack Engineer**
 - 📫 How to reach me: **ibrahimmanidavid@gmail.com**
 - 🏆 Award: **HNG Internship Participant – Frontend Development Track**
 
