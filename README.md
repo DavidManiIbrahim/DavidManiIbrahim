@@ -69,6 +69,11 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/express.svg" alt="Express.js" width="40" height="40"/>
 </a>
 
+<!-- Expo -->
+<a href="https://expo.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/expo.svg" alt="Expo" width="40" height="40"/>
+</a>
+
 <!-- React Native -->
 <a href="https://reactnative.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React Native" width="40" height="40"/>
