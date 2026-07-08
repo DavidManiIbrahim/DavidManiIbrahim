@@ -54,10 +54,32 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/42037415f0df19cd82b3853c18a967a81783f921/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<!-- Express.js -->
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/express.svg" alt="Express.js" width="40" height="40"/>
+</a>
+
+<!-- React Native -->
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React Native" width="40" height="40"/>
+</a>
+
+
+
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidManiIbrahim&show_icons=true&theme=tokyonight" alt="DavidManiIbrahim" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DavidManiIbrahim&show_icons=true&theme=tokyonight" alt="DavidManiIbrahim" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidManiIbrahim&theme=tokyonight" alt="DavidManiIbrahim" />
 </p>
