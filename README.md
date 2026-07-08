@@ -9,24 +9,24 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Full Stack Development (React, Next.js, Firebase, Supabase)**
-- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/DavidManiIbrahim?tab=repositories)  
-- 💬 Ask me about **React, HTML, CSS, JavaScript (ES6+), Git, Tailwind, Bootstrap**
-- 🎯 2025 Goal: **Hit 2k GitHub contributions & become a Full-Stack Engineer**
-- 📫 How to reach me: **ibrahimmanidavid@gmail.com**
-- 🏆 Award: **HNG Internship Participant – Frontend Development Track**
+###  About Me
+-  I’m currently learning **Full Stack Development (React, Next.js, Node.js MongoDB, Firebase, Supabase)**
+-  All of my projects are available on [my GitHub](https://github.com/DavidManiIbrahim?tab=repositories)  
+-  Ask me about **React, HTML, CSS, JavaScript (ES6+), Git, Tailwind, Bootstrap**
+-  2025 Goal: **Hit 2k GitHub contributions & become a Full-Stack Engineer**
+-  How to reach me: **ibrahimmanidavid@gmail.com**
+-  Award: **HNG Internship Participant – Frontend Development Track**
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 - **Conference Ticket Generator** → Form validation, PDF generation, email confirmations  
 - **Customer Relationship Management (CRM) System** → Dashboard, email notifications, Firebase backend  
 - **SmartAID Dashboard** → Community-focused web platform for small businesses with routing & role-based access  
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="mailto:ibrahimmanidavid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://fb.com/ma ni" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -51,7 +51,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/42037415f0df19cd82b3853c18a967a81783f921/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
 ---
