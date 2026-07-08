@@ -86,7 +86,7 @@
 
 <!-- Convex -->
 <a href="https://www.convex.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/convex.svg" alt="Convex" width="40" height="40"/>
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/convex.svg" alt="Convex" width="40" height="40"/>
 </a>
 
 ---
