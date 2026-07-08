@@ -74,7 +74,20 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React Native" width="40" height="40"/>
 </a>
 
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
 
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
+<!-- Convex -->
+<a href="https://www.convex.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/convex.svg" alt="Convex" width="40" height="40"/>
+</a>
 
 ---
 
